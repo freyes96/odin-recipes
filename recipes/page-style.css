@@ -1,0 +1,19 @@
+body {
+    background-color: #f6b1b1;
+    font-family: sans-serif, serif;
+    font-size: 20px;
+    color: #af2222;
+    line-height: 30px;
+}
+
+h1 {
+    color: #ebebeb;
+    font-size: 45px;
+}
+p {
+    font-size: 15px;
+}
+
+ul {
+    line-height: 30px;
+}

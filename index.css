@@ -1,0 +1,14 @@
+body {
+    background-color: #f6b1b1;
+    font-family: sans-serif, serif;
+}
+
+h1 {
+    color: #ebebeb;
+    font-size: 45px;
+}
+
+ul {
+    line-height: 30px;
+    font-size: 20px;
+}
